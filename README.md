@@ -1,33 +1,6 @@
 # Tarea-1-ML
-Esta es la tarea 1 del ramo de machine learning de la uc.
-Esto es solamente un borrados para ver como interactuan los branches
-Almost heaven, West Virginia
-Blue Ridge Mountains, Shenandoah River
-Life is old there, older than the trees
-Younger than the mountains, growin' like a breeze
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mama
-Take me home, country roads
-All my memories gather 'round her
-Miner's lady, stranger to blue water
-Dark and dusty, painted on the sky
-Misty taste of moonshine, teardrops in my eye
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mama
-Take me home, country roads
-I hear her voice in the mornin' hour, she calls me
-The radio reminds me of my home far away
-Drivin' down the road, I get a feelin' that I should've been home
-Yesterday, yesterday
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mama
-Take me home, country roads
-Country roads, take me home
-To the place I belong
-West Virginia, mountain mama
-Take me home, country roads
-Take me home, down country roads
-Take me home, down country roads
+Esta es la tarea 1 del ramo de machine learning de la uc. Esta tarea está hecha por Cristian Díaz y Fernando Parra.
+
+Quiero ver como funcionan los cambios del borrador en el main.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
