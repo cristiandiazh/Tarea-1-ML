@@ -1,5 +1,5 @@
 # Tarea-1-ML
-Esta es la tarea 1 del ramo de machine learning de la uc.
+Esta es la tarea 1 del ramo de machine learning de la uc. Esta tarea está hecha por Cristian Díaz y Fernando Parra.
 
 Quiero ver como funcionan los cambios del borrador en el main.
 
